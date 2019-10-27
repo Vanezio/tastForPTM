@@ -8,4 +8,4 @@ Searching functions you can find at the bottom of the script at the .\scripts\in
 
 Link on git hub pages https://vanezio.github.io/testForPTM/
 
-Click: delete cell and all neighbours cells from the same group
+Click: delete cell and all neighbour cells from the same group
